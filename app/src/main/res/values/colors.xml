@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D7BA194F</color>
+    <color name="colorPrimaryDark">#9A2050</color>
+    <color name="colorAccent">#CF5489</color>
+    <color name="newsFeedTopMenuColor">#F5F5F5</color>
+    <color name="white">#ffffff</color>
+    <color name="dateColor">#9e9e9e</color>
+[    <color name="titleColor">#212121</color>
+    <color name="descriptionColor">#757575</color>
+    <color name="onPressedColor">#4D000000</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="heading">#015291</color>
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#015291</color>
+    <color name="loginBkColor">#f0f0f0</color>
+
+    <!--colros for card-->
+    <color name="whiteCardColor">#fff</color>
+    <color name="ThemeColor">#000</color>
+    <color name="LikedColor">#ffff</color>
+    <color name="LikeColor">#303839</color>
+    <color name="background">#dddddd</color>]
+
+    <!--colros for tutorial cards-->
+    <color name="color1">#f8bbd0</color>
+    <color name="color2">#f48fb1</color>
+    <color name="color3">#f06292</color>
+    <color name="color4">#F6578D</color>
+</resources>
+

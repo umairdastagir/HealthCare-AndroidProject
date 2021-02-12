@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string-array name="categoires">
+        <item>Categories</item>
+        <item>Categories</item>
+        <item>Categories</item>
+        <item>Categories</item>
+        <item>Categories</item>
+        <item>Categories</item>
+        <item>Categories</item>
+        <item>Categories</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">REGISTER</string>
+    <string name="login">Sign IN</string>
+    <string name="Welcome"><b>Health Care 24/7</b></string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Join the Community</string>
+    <string name="gender">Gender</string>
+    <string name="doctor_specific_hint">Specification</string>
+    <string name="doctor_reg_id">Reg_Id</string>
+    <string name="doctor_name">Name</string>
+    <string name="no_chats_available">No Chats Available</string>
+    <string name="attachments"><u>Attachments..</u></string>
+    <string name="title_activity_my_maps">Map</string>
+</resources>
